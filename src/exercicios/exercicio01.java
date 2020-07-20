@@ -21,8 +21,7 @@ public class exercicio01 {
 			senha = scan.nextInt();			
 		}
 		System.out.println("Acesso Permitido!");
-		
-
+		scan.close();
 	}
 
 }
